@@ -1,0 +1,10 @@
+| Util | Doc |
+| --- | --- |
+| gm_effects | [game-mode](https://noverse.dev/docs/win-config/system/game-mode/#gm_effects) |
+| heap_dump | [heap-type](https://noverse.dev/docs/win-config/system/heap-type/#heap_dump) |
+| mmcss_task | [mmcss-values](https://noverse.dev/docs/win-config/system/mmcss-values/#watching-the-mmcss-boost) |
+| msd_test | [mouse-hover-time](https://noverse.dev/docs/win-config/visibility/mouse-hover-time/#msd_test) |
+| query_hwsch | [hags](https://noverse.dev/docs/win-config/system/hags/#query_hwsch) |
+| ri_flagtest | [mouse-values](https://noverse.dev/docs/win-config/peripheral/mouse-values/#validating-interpretations) |
+| riflags | [mouse-values](https://noverse.dev/docs/win-config/peripheral/mouse-values/#riflags) |
+| xhci_imod | [xhci_imod](https://noverse.dev/docs/win-config/power/xhci-imod/#xhci_imod) |
